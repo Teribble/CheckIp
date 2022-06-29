@@ -63,9 +63,9 @@ namespace CheckIp.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1000_F_252742805_nT99VY0pZ8NcvBbNvMzzXNGvCuYE7ONk {
+        internal static System.Drawing.Bitmap background {
             get {
-                object obj = ResourceManager.GetObject("1000_F_252742805_nT99VY0pZ8NcvBbNvMzzXNGvCuYE7ONk", resourceCulture);
+                object obj = ResourceManager.GetObject("background", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace CheckIp.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _360_F_409812204_DB79pC30Mid4zQgUwEFOMbniRhzUUk2X {
+        internal static System.Drawing.Bitmap background1 {
             get {
-                object obj = ResourceManager.GetObject("360_F_409812204_DB79pC30Mid4zQgUwEFOMbniRhzUUk2X", resourceCulture);
+                object obj = ResourceManager.GetObject("background1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,19 +83,9 @@ namespace CheckIp.Properties {
         /// <summary>
         ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _3703 {
+        internal static System.Drawing.Bitmap logo {
             get {
-                object obj = ResourceManager.GetObject("3703", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Поиск локализованного ресурса типа System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap discount_star_special_offer_icon_220690 {
-            get {
-                object obj = ResourceManager.GetObject("discount_star_special_offer_icon_220690", resourceCulture);
+                object obj = ResourceManager.GetObject("logo", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
